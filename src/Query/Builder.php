@@ -62,7 +62,7 @@ class Builder
      *
      * @var string
      */
-    public $queryString = '?';
+    public $queryString = '?$schemaversion=2.1';
 
     /**
      * An aggregate function to be run.
